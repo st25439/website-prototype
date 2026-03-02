@@ -34,3 +34,15 @@ section {
   padding: 20px;
   text-align: center;
 }
+
+/* Headings */
+h2 {
+  color: #333;
+}
+
+/* Paragraph text */
+p {
+  font-size: 16px;
+  color: #555;
+}
+
