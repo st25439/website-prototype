@@ -28,3 +28,9 @@ nav a {
 nav a:hover {
   color: orange;
 }
+
+/* Section content */
+section {
+  padding: 20px;
+  text-align: center;
+}
