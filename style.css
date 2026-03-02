@@ -5,3 +5,10 @@ body {
   background-color: #f4f4f4;
 }
 
+/* Header */
+header {
+  background-color: #222;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
