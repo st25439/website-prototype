@@ -56,11 +56,11 @@ img {
 
 /* Gallery styling */
 .gallery {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
   justify-content: center;
   gap: 15px;
   margin-top: 20px;
-  flex-wrap: wrap;
 }
 
 .gallery img {
